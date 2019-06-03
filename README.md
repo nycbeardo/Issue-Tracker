@@ -1,2 +1,2 @@
 # Issue Tracker
-Done in vanilla JS and Node
+Done in vanilla JS with Bootstrap, jQuery and ChanceJS
